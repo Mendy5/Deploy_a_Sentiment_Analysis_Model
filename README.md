@@ -23,10 +23,9 @@ torch
 [IMDb dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
 
 ## Project Motivation
-This simple web app which interacts with the sentimental analysis model on movie reviews. And the sentimental results will show on the webpage.
-
-## File Description
+This simple web app which interacts with the sentimental analysis model on movie reviews.
 
 ## Results
+The final product is a webpage. The users can enter a review of a movie and submit it. The sentimental results will show if it is a positive or negative review on the webpage.
 
 # Licensing, Authors, Acknowledgements
