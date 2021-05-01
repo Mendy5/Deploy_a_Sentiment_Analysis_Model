@@ -19,7 +19,7 @@ The design of this model contains: a deployed sentimental analysis model, lambda
 - sagemaker
 - torch
 
-Other required libraries for deployed model includes in the [train/requirements.txt](https://github.com/Mendy5/Udacity_Deploy_a_Sentiment_Analysis_Model/blob/main/train/requirements.txt) file
+Other required libraries for the deployed model includes in the [train/requirements.txt](https://github.com/Mendy5/Udacity_Deploy_a_Sentiment_Analysis_Model/blob/main/train/requirements.txt) file
 
 ## Data Source
 [IMDb dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
