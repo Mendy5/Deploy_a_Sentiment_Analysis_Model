@@ -5,7 +5,7 @@ The model contains
 1. A sentiment recurrent neural network model deployed on AWS
 2. A web application that allows enter reviews of movies
 
-The design of this model contains: a deployed sentimental analysis model, lambda function, API and a webpage. This simple web app which interacts with the sentimental analysis model on movie reviews.
+The design of this model contains: a deployed sentimental analysis model, lambda function, API and a webpage. The model is deployed and runs on AWS.
 
 ## Installation
 - sagemaker==1.72.0
