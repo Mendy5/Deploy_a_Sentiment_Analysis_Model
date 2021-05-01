@@ -19,6 +19,8 @@ pandas
 sagemaker
 torch
 
+Other required libraries for deployed model includes in the [train/requirements.txt](https://github.com/Mendy5/Udacity_Deploy_a_Sentiment_Analysis_Model/blob/main/train/requirements.txt) file
+
 ## Data Source
 [IMDb dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
 
@@ -29,3 +31,4 @@ This simple web app which interacts with the sentimental analysis model on movie
 The final product is a webpage. The users can enter a review of a movie and submit it. The sentimental results will show if it is a positive or negative review on the webpage.
 
 # Licensing, Authors, Acknowledgements
+Must give credit to Andrew Maas for the data.
