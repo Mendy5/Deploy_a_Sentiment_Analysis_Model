@@ -8,16 +8,16 @@ The model contains
 The design of this model contains: a deployed sentimental analysis model, lambda function, API and a webpage. This simple web app which interacts with the sentimental analysis model on movie reviews.
 
 ## Installation
-sagemaker==1.72.0
-python3
-glob
-sklearn
-nltk
-pickle
-numpy
-pandas
-sagemaker
-torch
+- sagemaker==1.72.0
+- python3
+- glob
+- sklearn
+- nltk
+- pickle
+- numpy
+- pandas
+- sagemaker
+- torch
 
 Other required libraries for deployed model includes in the [train/requirements.txt](https://github.com/Mendy5/Udacity_Deploy_a_Sentiment_Analysis_Model/blob/main/train/requirements.txt) file
 
